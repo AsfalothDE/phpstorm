@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="lens" type="HTML" />
+      <mapping ext="html5" type="HTML" />
+      <mapping ext="htc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
