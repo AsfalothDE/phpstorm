@@ -4,25 +4,6 @@
       <component name="NamedScopeManager">
         <order />
       </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Internationalization issues</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>CoffeeScript</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -38,14 +19,14 @@
       </component>
       <component name="ProjectRootManager" version="2" />
       <component name="PropertiesComponent">
-        <property name="options.lastSelected" value="vcs.Git" />
+        <property name="options.lastSelected" value="web.server" />
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
         <property name="options.searchVisible" value="true" />
-        <property name="last_opened_file_path" value="$USER_HOME$/Documents/Projekte/Sinex Medienwerkstatt/schwarzwaldhotel-trescher.de" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Documents/Projekte/anymotion/anyHomepage" />
       </component>
       <component name="SvnConfiguration" myUseAcceleration="nothing">
-        <configuration useDefault="false">D:\Users\Silvia\AppData\Roaming\Subversion</configuration>
+        <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
@@ -54,21 +35,6 @@
         <option name="myTodoPanelSettings">
           <TodoPanelSettings />
         </option>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>
