@@ -53,19 +53,26 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="https://svn.mrmworldwide.de/svn/miele-prestige" />
+        <option value="https://svn.mrmworldwide.de/svn/miele-prestige/" />
         <option value="svn://home.silviaulenberg.de/repo1" />
         <option value="https://svn.mrmworldwide.de/svn/statoil-dev/" />
-        <option value="svn://home.silviaulenberg.de/projects" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
-        <option value="https://svn.mrmworldwide.de/svn/miele-prestige" />
+        <option value="https://svn.mrmworldwide.de/svn/miele-prestige/" />
         <option value="svn://home.silviaulenberg.de/repo1" />
+        <option value="http://home.silviaulenberg.de/svn" />
         <option value="https://svn.mrmworldwide.de/svn/statoil-dev/" />
-        <option value="svn://home.silviaulenberg.de/projects" />
       </list>
+    </option>
+    <option name="mySvnCommandLine" value="/usr/bin/svn" />
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Grunt Console" />
+      </set>
     </option>
   </component>
   <component name="XPathView.XPathViewPlugin">
@@ -98,15 +105,15 @@
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />

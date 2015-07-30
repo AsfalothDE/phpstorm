@@ -21,12 +21,13 @@
       </entry>
       <entry key="CommitDialog">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>

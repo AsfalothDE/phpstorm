@@ -1,46 +1,52 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2439c159-e986-448a-9279-5df09e96314c" name="Novasol" url="http://www.novasol-video.com">
+      <webServer id="063efb52-df1e-48b0-8ced-eb74c592d064" name="Maybelline [WebdevUser - Silvia]" url="http://maybelline.silvia.webdevuser.mrmworldwide.de">
+        <fileTransfer host="maybelline.silvia.webdevuser.mrmworldwide.de" port="47110" privateKey="$USER_HOME$/Documents/Projekte/MRM/Maybelline/id_rsa_maybelline" rootFolder="/var/www/webdevuser.mrmworldwide.de/silvia/maybelline" accessType="SFTP" passphrase="dff9dfdedfcbdfd8dfdedf9bdf98df99" username="webdev1" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9985b610-6543-44e5-85f4-6377e20aaebe" name="Novasol" url="http://www.novasol-video.com">
         <fileTransfer host="94.23.161.112" port="21" rootFolder="/public_html" password="df9ddfc8df86dfe2dfccdf87df81dfc5dfd1dfd3dfe6dfed" username="novasol">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="79ec609d-c954-4512-ac94-cad001cd14b0" name="dev.silviaulenberg.de" url="http://primagas.dev.silviaulenberg.de">
-        <fileTransfer host="w00d52d2.kasserver.com" port="22" rootFolder="/www/htdocs/w00d52d2" accessType="SFTP" password="dfc2dfc3dfcedfcfdfdcdfc3df92df9e" username="ssh-w00d52d2">
+      <webServer id="57a738fc-2fec-4582-beaa-93ed2975c23e" name="dev.silviaulenberg.de" url="http://hase.dev.silviaulenberg.de">
+        <fileTransfer host="w00d52d2.kasserver.com" port="21" password="dfc2dfc3dfcedfcfdfdcdfc3df92df9e" username="w00d52d2">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="d05964fa-5bb1-42ba-9132-2f1897b448c1" name="kunden.silviaulenberg.de" url="http://kunden.silviaulenberg.de">
+      <webServer id="115b1461-f23b-4e0a-b3fd-1f3515cd43a3" name="kunden.silviaulenberg.de" url="http://kunden.silviaulenberg.de">
         <fileTransfer host="kunden.silviaulenberg.de" port="21" password="dfe2dfc9dff0dff9dfcddfdedfc5dfd2dfdcdfdadfcfdff3dfebdf98dfe8dffb" username="w011ed3b">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="ffa433dc-3ada-40a4-99ba-20e61d028fe1" name="photoya.de" url="http://www.photoya.de">
-        <fileTransfer host="photoya.de" port="21" password="dfc8dfcbdfccdfcbdfd3dfcbdfd8dfcf" username="w0088e12">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="a93de2a8-983c-4802-a8f5-ed33b841ae26" name="dev.photoya.de" url="http://dev.photoya.de">
+      <webServer id="bc3f7666-4041-4135-b0eb-56aa900f5240" name="Photoya" url="http://dev.photoya.de">
         <fileTransfer host="photoya.de" port="21" rootFolder="/dev" password="dfc8dfcbdfccdfcbdfd3dfcbdfd8dfcf" username="w0088e12">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="dc5afb6f-be9b-4255-b5f4-e8e93d56a4d2" name="anyHomepage" url="http://anyhomepage.anymotion.local">
-        <fileTransfer mountedRoot="D:\xampp\htdocs\anyMOTION\anyHomepage" accessType="MOUNT" />
+      <webServer id="5631d122-1e78-45c0-975e-f7d3975b4450" name="Localhost" url="deka.de.fma15.dev.nil">
+        <fileTransfer mountedRoot="$USER_HOME$/Sites/Deka/deka.de/dev/htdocs" accessType="MOUNT" />
       </webServer>
-      <webServer id="7aee8319-b964-491b-a1da-5e2315b4bb2f" name="schwarzwaldhotel-trescher.sinex.site" url="http://schwarzwaldhotel-trescher.sinex.site">
-        <fileTransfer mountedRoot="D:\xampp\htdocs\sinex\schwarzwaldhotel-trescher.de" accessType="MOUNT" />
+      <webServer id="20ccba4d-d57a-4ca6-bc8f-fd09b0848ff2" name="CITROËN Fastlane Konfigurator" url="http://citroen-fastlane.anymotion.local">
+        <fileTransfer mountedRoot="$USER_HOME$/Sites/anyMOTION/Citroen/fastlane" accessType="MOUNT" />
+      </webServer>
+      <webServer id="9720ac30-e3e8-4512-95e7-25e0ed48bc4b" name="Peugeot Speed Konfigurator" url="http://peugeot-speed-konfigurator.anymotion.local">
+        <fileTransfer mountedRoot="$USER_HOME$/Sites/anyMOTION/Peugeot/peugeot_speed_konfigurator" accessType="MOUNT" />
+      </webServer>
+      <webServer id="26ce7b8c-2a00-4062-8539-eefad99b2451" name="schwarzwaldhotel-trescher.sinex.site" url="http://schwarzwaldhotel-trescher.sinex.site">
+        <fileTransfer mountedRoot="$USER_HOME$/Sites/Sinex Medienwerkstatt/schwarzwaldhotel-trescher.de" accessType="MOUNT" />
       </webServer>
     </option>
   </component>

@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-color $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .less files into .css files" />
@@ -8,7 +8,7 @@
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
       <option name="name" value="LESS" />
-      <option name="output" value="../css/$FileNameWithoutExtension$.css.lens" />
+      <option name="output" value="$ProjectFileDir$/photoya/css/$FileNameWithoutExtension$.css.lens" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
@@ -20,17 +20,63 @@
       </option>
       <option name="outputFromStdout" value="true" />
       <option name="passParentEnvs" value="true" />
-      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/lessc.cmd" />
+      <option name="program" value="/usr/local/bin/lessc" />
+      <option name="scopeName" value="Current File" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="--no-color $FileName$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compiles .less files into .css files" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="less" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="LESS (settings.css/less)" />
+      <option name="output" value="$ProjectFileDir$/photoya/css/$FileNameWithoutExtension$.css.lens" />
+      <option name="outputFilters">
+        <array>
+          <FilterInfo>
+            <option name="description" value="lessc error format" />
+            <option name="name" value="lessc" />
+            <option name="regExp" value="$MESSAGE$$FILE_PATH$?:$LINE$:$COLUMN$" />
+          </FilterInfo>
+        </array>
+      </option>
+      <option name="outputFromStdout" value="true" />
+      <option name="passParentEnvs" value="true" />
+      <option name="program" value="/usr/local/bin/lessc" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--sourcemap=none --no-cache --style expanded --update $FileName$:../css/$FileNameWithoutExtension$.css.lens" />
+      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compiles .scss files into .css files" />
+      <option name="description" value="Compiles .sass files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="sass" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="SASS" />
+      <option name="output" value="../css/$FileNameWithoutExtension$.css.sass.lens" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="program" value="/usr/bin/sass" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--sourcemap=none --style expanded --no-cache --update $FileName$:../css/$FileNameWithoutExtension$.css.lens" />
+      <option name="checkSyntaxErrors" value="false" />
+      <option name="description" value="Compiles .scss files into .css files" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
@@ -40,7 +86,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="passParentEnvs" value="true" />
-      <option name="program" value="C:/Ruby193/bin/scss.bat" />
+      <option name="program" value="/usr/bin/scss" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
