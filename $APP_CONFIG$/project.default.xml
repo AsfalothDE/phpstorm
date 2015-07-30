@@ -24,17 +24,14 @@
         <property name="options.splitter.details.proportions" value="0.2" />
         <property name="options.searchVisible" value="true" />
         <property name="last_opened_file_path" value="$USER_HOME$/Documents/Projekte/anymotion/anyHomepage" />
+        <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="SvnConfiguration" myUseAcceleration="nothing">
         <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="VcsManagerConfiguration">
-        <option name="myTodoPanelSettings">
-          <TodoPanelSettings />
-        </option>
       </component>
     </defaultProject>
   </component>
