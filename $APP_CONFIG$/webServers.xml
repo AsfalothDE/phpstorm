@@ -48,6 +48,9 @@
       <webServer id="26ce7b8c-2a00-4062-8539-eefad99b2451" name="schwarzwaldhotel-trescher.sinex.site" url="http://schwarzwaldhotel-trescher.sinex.site">
         <fileTransfer mountedRoot="$USER_HOME$/Sites/Sinex Medienwerkstatt/schwarzwaldhotel-trescher.de" accessType="MOUNT" />
       </webServer>
+      <webServer id="3211fde0-d949-4d19-b95a-be42fd621e87" name="Parasol Briefing Manager" url="http://fca.parasol-island.site">
+        <fileTransfer mountedRoot="$USER_HOME$/Sites/Parasol Island/fca" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
