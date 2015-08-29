@@ -51,6 +51,13 @@
       <webServer id="3211fde0-d949-4d19-b95a-be42fd621e87" name="Parasol Briefing Manager" url="http://fca.parasol-island.site">
         <fileTransfer mountedRoot="$USER_HOME$/Sites/Parasol Island/fca" accessType="MOUNT" />
       </webServer>
+      <webServer id="ef3cc349-456d-44b4-9aee-ba7434554121" name="artagnan.de" url="http://www.artagnan.de">
+        <fileTransfer host="v096786.kasserver.com" port="21" username="v096786">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
