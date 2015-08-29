@@ -52,7 +52,7 @@
         <fileTransfer mountedRoot="$USER_HOME$/Sites/Parasol Island/fca" accessType="MOUNT" />
       </webServer>
       <webServer id="ef3cc349-456d-44b4-9aee-ba7434554121" name="artagnan.de" url="http://www.artagnan.de">
-        <fileTransfer host="v096786.kasserver.com" port="21" username="v096786">
+        <fileTransfer host="v096786.kasserver.com" port="21" password="dfc0dfc5dfc7dfc3dfd8dfc5dfd8dfc5" username="v096786">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
