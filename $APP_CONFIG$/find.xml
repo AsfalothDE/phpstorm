@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected Files" />
-    <option name="defaultScopeName" value="Selected Files" />
-    <option name="SEARCH_SCOPE" value="Selected Files" />
+    <option name="customScope" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
+    <option name="defaultScopeName" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
   </component>
 </application>
