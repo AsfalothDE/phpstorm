@@ -3,5 +3,19 @@
     <option name="customScope" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
     <option name="defaultScopeName" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
     <option name="SEARCH_SCOPE" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
+    <option name="FILE_MASK" value="*.shtml" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.shtml</mask>
+    </recentFileMasks>
   </component>
 </application>
