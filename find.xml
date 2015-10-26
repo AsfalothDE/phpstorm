@@ -3,10 +3,9 @@
     <option name="customScope" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
     <option name="defaultScopeName" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -18,6 +17,7 @@
       <mask>*.shtml</mask>
       <mask>*.scss, *.shtml</mask>
       <mask>*.scss</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
