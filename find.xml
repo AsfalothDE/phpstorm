@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
-    <option name="defaultScopeName" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/Silvia/Documents/Projekte/Substanz/HASE Bike Konfigurator/konfigurator.hasebikes.com/system/modules/hase_bike_konfigurator/languages/de/default.php'" />
+    <option name="customScope" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
+    <option name="defaultScopeName" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
     <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
