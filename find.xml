@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
-    <option name="defaultScopeName" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/Silvia/Sites/Granpasso/Provinzial/cms-master/opencms/cms-pvr/src/main/sass/pvr/modules'" />
+    <option name="customScope" value="File '/Users/Silvia/Documents/Projekte/anymotion/UPD/brandpepper_upd_website/website/static/src/scss/modules/_accessibility.scss'" />
+    <option name="defaultScopeName" value="File '/Users/Silvia/Documents/Projekte/anymotion/UPD/brandpepper_upd_website/website/static/src/scss/modules/_accessibility.scss'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/Silvia/Documents/Projekte/anymotion/UPD/brandpepper_upd_website/website/static/src/scss/modules/_accessibility.scss'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
